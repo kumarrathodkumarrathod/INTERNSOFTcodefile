@@ -1,0 +1,31 @@
+Day1-Introduction & setup
+
+* created a GitHub account
+* install Git on system
+* learned basic Git commands(init,add,commit,push)
+* created first repository
+* uploaded a simple project/file
+* understand version control basic
+
+
+DAY1:
+
+Today i created my GitHub account and installed Git.
+I learned basic commands and created my basic repository.
+I also uploaded a sample project and understood how version control works.
+
+problem faced:
+
+* Difficulty understanding basic Git commands
+* Error while connecting local system to GitHub
+* command prompt/terminal-to run Git commands
+* confusion between commands like add,commit,and push
+* initial setup issue(installation or configuration)
+* toible uploading files to respository
+
+tools used:
+
+* Version Control with Git
+* Tracks changes in your code over time
+* Lets you go back to previous versions
+* Supports branching and merging
